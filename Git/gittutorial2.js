@@ -1,2 +1,2 @@
 console.log("gittutorial2.js");
-console.log("Gitt3")
+console.log("git1")

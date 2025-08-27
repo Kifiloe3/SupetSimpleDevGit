@@ -43,7 +43,7 @@ console.log(arr);*/
 
 // console.log(arr2);
 
-let arr3 = ["candy", "fruits", "salads", "cake", "meat", "veggies"];
+//let arr3 = ["candy", "fruits", "salads", "cake", "meat", "veggies"];
 
 // for (let i = 0; i < arr3.length; i++) {
 //     if (arr3[i] === "salads") {
@@ -51,18 +51,18 @@ let arr3 = ["candy", "fruits", "salads", "cake", "meat", "veggies"];
 //     }
 // }
 
-arr3.forEach(element => {
+//arr3.forEach(element => {
     
-});
+//});
 
-let y = 0;
-do {
-    console.log(arr3[y]);
-    y++;
-} while (y < arr3.length);
+//let y = 0;
+//do {
+   // console.log(arr3[y]);
+   // y++;
+//} while (y < arr3.length);
 
-let theNumber = 1;
-while (true) {
+//let theNumber = 1;
+//while (true) {
     if (theNumber <= 30 && theNumber >= 20) {
         theNumber++;
         continue;
@@ -73,4 +73,8 @@ while (true) {
             break;
         } 
     }
+//}
+for(let x=100; x < 100; x--){
+x -= 10;
+console.log
 }
