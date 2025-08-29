@@ -23,7 +23,7 @@ phone: "0913 531 3030",
 email: "risus.Quisque@urna.ca."
 }*/];
 
-contacts.push({
+/*contacts.push({
     name: "Maisie Haley",
     phone: "0913 531 3030",
     email: "risus.Quisque@urna.ca."
@@ -32,4 +32,4 @@ contacts.push({
 // console.log(contacts[contacts.length-1]);//4
 console.log(`Name: ${contacts[0].name} Phone: ${contacts[0].phone} Email: ${contacts[0].email}`);
 console.log(`Name: ${contacts[contacts.length-1].name} Phone: ${contacts[contacts.length-1].phone} Email: ${contacts[contacts.length-1].email}`);
-let s
+let s*\
